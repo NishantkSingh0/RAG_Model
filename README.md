@@ -33,5 +33,5 @@ The retrieved information is then passed to GPT-2.
 GPT-2 uses the context provided by the retrieved information to generate a response to the query.
 
 ## Question: what is AI
-##Answer (in a concise and clear manner): 
+## Answer (in a concise and clear manner): 
 AI offers a new opportunity for human researchers to develop novel technologies using artificial intelligence to solve complex real-world problems.
