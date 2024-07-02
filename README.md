@@ -1,6 +1,6 @@
 ## Retrieval-Augmented Generation (RAG) Model for AI Information
 ## Overview
-This project implements a Retrieval-Augmented Generation (RAG) model using SentenceTransformer, Pinecone, and a pre-trained GPT-2 model. The goal of this model is to generate accurate and contextually relevant answers to questions related to AI by combining the retrieval capabilities of Pinecone with the generative power of GPT-2.
+This project implements a Retrieval-Augmented Generation (RAG) model using Pinecone, and a pre-trained GPT-2 model. The goal of this model is to generate accurate and contextually relevant answers to questions related to AI by combining the retrieval capabilities of Pinecone with the generative power of GPT-2.
 
 ## Components
 
